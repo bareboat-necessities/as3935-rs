@@ -6,9 +6,9 @@ edition = "2021"
 homepage = "https://github.com/bareboat-necessities/as3935-rs"
 keywords = ["raspberry", "as3935", "i2c", "spi", "lightning"]
 license = "MIT"
-name = "as3935"
+name = "as3935-bbn"
 readme = "README.md"
-repository = "https://github.com/trashware/as3935-rs"
+repository = "https://github.com/bareboat-necessities/as3935-rs"
 version = "0.1.0-pre.2"
 
 [badges]
